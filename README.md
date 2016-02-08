@@ -1,2 +1,2 @@
 # FOSSCustom
-Custom Modules for ERPNext
+Custom Modules for customer implementations
